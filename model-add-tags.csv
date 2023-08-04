@@ -1,0 +1,123 @@
+整车厂-品牌,车种,级别,车型,动力总成
+福特,Light Trucks,Pickup Truck,Ford F-Series,ICE
+雪佛兰,Light Trucks,Pickup Truck,Silverado,ICE
+Ram (2021-),Light Trucks,Pickup Truck,Ram P-U,ICE
+Tesla,Light Trucks,SUV-D,Model Y,EV
+日产,Light Trucks,SUV-C,Rogue,ICE
+GMC,Light Trucks,Pickup Truck,GMC Sierra,ICE
+丰田,Cars,D,Camry,ICE
+丰田,Light Trucks,SUV-D,RAV4,ICE
+吉普 (2021-),Light Trucks,SUV-E,Grand Cherokee (Jeep (2009-)),ICE
+丰田,Light Trucks,Pickup Truck,Tacoma,ICE
+Tesla,Cars,D,Model 3,EV
+本田,Light Trucks,SUV-D,CR-V,HV
+斯巴鲁,Light Trucks,SUV-D,Outback,ICE
+丰田,Light Trucks,SUV-D,Highlander,ICE
+本田,Cars,C,Civic,ICE
+丰田,Cars,C,Corolla,ICE
+丰田,Light Trucks,SUV-D,RAV4,HV
+雪佛兰,Light Trucks,SUV-C,Equinox,ICE
+本田,Light Trucks,SUV-D,CR-V,ICE
+雪佛兰,Cars,D,Malibu,ICE
+现代,Light Trucks,SUV-C,Tucson (ix35),ICE
+斯巴鲁,Cars,SUV-C,XV,ICE
+马自达,Light Trucks,SUV-C,CX-5,ICE
+福特,Light Trucks,SUV-D,Explorer,ICE
+日产,Cars,C,Sentra,ICE
+福特,Light Trucks,SUV-C,Escape,ICE
+雪佛兰,Light Trucks,SUV-C,Trailblazer,ICE
+克莱斯勒 (2021-),Light Trucks,MPV,Pacifica (Chrysler (2009-)),ICE
+现代,Cars,C,Avante (Elantra),ICE
+福特,Light Trucks,SUV-C,Bronco Sport,ICE
+福特,Light Trucks,不可分级,Transit,ICE
+本田,Light Trucks,SUV-D,Honda Pilot,ICE
+斯巴鲁,Light Trucks,SUV-C,Forester,ICE
+雪佛兰,Light Trucks,Pickup Truck,Chevrolet Colorado,ICE
+雪佛兰,Light Trucks,SUV-D,Traverse,ICE
+起亚,Light Trucks,SUV-C,Sportage,ICE
+起亚,Cars,C,Kia Forte,ICE
+雪佛兰,Light Trucks,SUV-E,Tahoe,ICE
+本田,Cars,D,Accord,HV
+雪佛兰,Light Trucks,SUV-B,Trax (Tracker),ICE
+现代,Light Trucks,SUV-D,Santa Fe,ICE
+起亚,Light Trucks,SUV-D,Telluride,ICE
+丰田,Light Trucks,SUV-D,4Runner,ICE
+本田,Light Trucks,SUV-C,HR-V,ICE
+吉普 (2021-),Light Trucks,SUV-C,Compass (Jeep (2009-)),ICE
+吉普 (2021-),Light Trucks,SUV-C,Wrangler (Jeep (2009-)),ICE
+福特,Light Trucks,SUV-D,Bronco,ICE
+丰田,Light Trucks,Pickup Truck,Tundra,ICE
+Ram (2021-),Light Trucks,不可分级,ProMaster,ICE
+日产,Cars,D,Altima,ICE
+道奇 (2021-),Cars,D,Charger (Dodge (2009-)),ICE
+大众,Light Trucks,SUV-D,VW Atlas,ICE
+本田,Cars,D,Accord,ICE
+福特,Light Trucks,SUV-D,Edge,ICE
+雷克萨斯,Light Trucks,SUV-E,Lexus RX,ICE
+福特,Light Trucks,SUV-E,Expedition,ICE
+GMC,Light Trucks,SUV-D,Acadia,ICE
+梅赛德斯-奔驰 (2022-),Light Trucks,SUV-E,GLE-Class (M-Class-ML-Class),ICE
+马自达,Light Trucks,SUV-C,CX-30,ICE
+丰田,Light Trucks,MPV,Sienna,HV
+GMC,Light Trucks,SUV-C,Terrain,ICE
+别克,Light Trucks,SUV-C,Encore GX,ICE
+雪佛兰,Light Trucks,SUV-D,Blazer,ICE
+起亚,Cars,D,K5,ICE
+日产,Light Trucks,SUV-C,Kicks,ICE
+斯巴鲁,Light Trucks,SUV-D,Ascent,ICE
+现代,Light Trucks,SUV-D,Palisade,ICE
+道奇 (2021-),Light Trucks,SUV-E,Durango (Dodge (2009-)),ICE
+奥迪,Light Trucks,SUV-D,Audi Q5,ICE
+起亚,Light Trucks,SUV-C,SELTOS,ICE
+起亚,Light Trucks,SUV-D,Sorento (KX7),ICE
+丰田,Light Trucks,SUV-C,Corolla Cross,ICE
+本田,Light Trucks,MPV,Odyssey,ICE
+雪佛兰,Light Trucks,SUV-E,C-K Suburban,ICE
+起亚,Cars,C,Soul,ICE
+福特,Light Trucks,Pickup Truck,Ford F-Series,HV
+吉普 (2021-),Light Trucks,Pickup Truck,Jeep Gladiator,ICE
+日产,Light Trucks,SUV-D,Pathfinder,ICE
+日产,Light Trucks,Pickup Truck,Frontier (Navara),ICE
+宝马,Light Trucks,SUV-D,X3,ICE
+讴歌,Light Trucks,SUV-E,Acura MDX,ICE
+宝马,Light Trucks,SUV-E,X5,ICE
+吉普 (2021-),Light Trucks,SUV-E,Grand Cherokee (Jeep (2009-)),PHV
+现代,Light Trucks,SUV-C,Kona,ICE
+大众,Light Trucks,SUV-C,Tiguan,ICE
+本田,Light Trucks,Pickup Truck,Ridgeline,ICE
+大众,Cars,C,Jetta,ICE
+Cadillac,Light Trucks,SUV-E,Escalade,ICE
+起亚,Light Trucks,MPV,Sedona (Carnival),ICE
+福特,Light Trucks,Pickup Truck,Ford Ranger,ICE
+大众,Light Trucks,SUV-C,Taos,ICE
+雷克萨斯,Light Trucks,SUV-D,Lexus NX,ICE
+吉普 (2021-),Light Trucks,SUV-C,Wrangler (Jeep (2009-)),PHV
+福特,Light Trucks,Pickup Truck,Ford Maverick,HV
+道奇 (2021-),Cars,D,Challenger (Dodge (2009-)),ICE
+别克,Light Trucks,SUV-C,Envision,ICE
+福特,Light Trucks,SUV-D,Mustang Mach-E,EV
+三菱,Light Trucks,SUV-D,Outlander,ICE
+GMC,Light Trucks,SUV-E,Yukon,ICE
+本田,Light Trucks,SUV-D,Passport,ICE
+现代,Light Trucks,Pickup Truck,Santa Cruz,ICE
+马自达,Light Trucks,SUV-D,CX-50,ICE
+现代,Light Trucks,SUV-C,Tucson (ix35),HV
+沃尔沃汽车 (2011-),Light Trucks,SUV-D,XC60 (Volvo Cars (2011-)),ICE
+福特,Light Trucks,Pickup Truck,Ford Maverick,ICE
+雪佛兰,Cars,D,Camaro,ICE
+雪佛兰,Cars,F,Corvette,ICE
+梅赛德斯-奔驰 (2022-),Cars,D,C-Class,ICE
+GMC,Light Trucks,SUV-E,Yukon XL,ICE
+雷克萨斯,Light Trucks,SUV-E,Lexus RX,HV
+斯巴鲁,Cars,C,Impreza,ICE
+丰田,Cars,C,Corolla,HV
+起亚,Light Trucks,SUV-C,Sportage,HV
+现代,Cars,D,Sonata,ICE
+丰田,Light Trucks,SUV-D,Highlander,HV
+福特,Cars,D,Mustang,ICE
+马自达,Light Trucks,SUV-D,CX-90,ICE
+丰田,Cars,C,Prius,HV
+现代,Cars,D,IONIQ 6,EV
+丰田,Light Trucks,SUV-D,RAV4,PHV
+道奇 (2021-),Light Trucks,SUV-C,Dodge Hornet,ICE
+马自达,Light Trucks,SUV-D,CX-90,PHV
